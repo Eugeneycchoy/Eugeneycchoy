@@ -1,5 +1,5 @@
 Hi, I'm Eugene
-- 💻 Fullstack
-- 🧑🏻‍💻 UI/UX Designer Software Developer Hybrid
-- 🎓 Studied Multimedia Design at University
-- 🛠️ Adobe Suite, Figma, React, Django, Go, Docker, Devops, CICD
+- 💻 Software Dev who also has good art senses
+- 🧑🏻‍💻 I'm learning Go and Docker at the moment
+- 🎓 Information Technology(Multimedia Design) - The University of Queensland
+- 🛠️ All these languages are just tools. It's not what you know, it's what you can do
