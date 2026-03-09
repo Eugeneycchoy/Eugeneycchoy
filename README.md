@@ -1,7 +1,7 @@
 Hi, I'm Eugene Choy
 - 💻 Software Developer / UXUI Designer / Devops Engineer
 - 🎓 Bachelor of Multimedia Design - The University of Queensland
-- 🛠️ Python Django, NextJS, Typescript, HTML/CSS(Tailwind), PostgreSQL
+- 🛠️ Python Django, NextJS, Typescript, HTML/CSS(Tailwind), PostgreSQL, Supabase
 - 🚀 CI/CD, Git, Gitlab/Github/Bitbucket, Docker, Kubernetes, YAML pipelines, Terraform
 - 🤖 Cursor, Claude Code, Warp, GitKraken
 - 🎨 Figma, Adobe Illustrator, Photoshop, InDesign, Premiere Pro, Canva
