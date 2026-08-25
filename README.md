@@ -1,9 +1,7 @@
 # Eugene Choy
 
-Software engineer in Hong Kong. I care about clear interfaces, reliable backends, and making complex systems easier to work with.
+Software developer at [Radica Systems Limited](https://radicasys.com/) in Hong Kong.
 
-I work across TypeScript and Python — web apps, APIs, and the glue that gets them deployed. Background in multimedia design (University of Queensland), so I tend to think about how something looks and how it holds up once people actually use it.
-
-**Open to software engineering roles.** Based in Hong Kong; open to remote.
+I work in TypeScript and Python — web apps, APIs, and the operational side of shipping them. Background in multimedia design (University of Queensland), so I pay attention to how something looks and how it holds up in use.
 
 TypeScript · Python · Next.js · Django · Tailwind · PostgreSQL · Docker
